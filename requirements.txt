@@ -1,0 +1,6 @@
+Flask
+gunicorn
+torch
+scikit-learn
+joblib
+numpy
